@@ -269,6 +269,10 @@ hr {
     display: flex;
     gap: 20px;
     font-size: 30px;
+    color: white;
+}
+i{
+    color: white;
 }
 
 /* <!-- Fotter end--> */
@@ -351,6 +355,9 @@ hr {
         grid-template-columns: repeat(2, 1fr);
         justify-content: center;
         align-items: center;
+        color: white;
+    }
+    .icon{
         color: white;
     }
     .footter-menu-box {
