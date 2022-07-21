@@ -160,16 +160,15 @@ h1 {
     gap: 10px;
 
 }
-.blog-icon  .fa-solid {
-    color: #000;
-}
+
 
 .blog-anchor {
     margin-top: 20px;
 }
-.{
-    color: black;
+.blog-icon  .fa-solid {
+    color: #000;
 }
+
 .blog-btn {
     border: 1px solid black;
     padding: 5px 10px;
