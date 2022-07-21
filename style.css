@@ -9,7 +9,7 @@ body {
     width: 100%;
 }
 
-/* <!-- Header imgg Start --> */
+/* <!-- Header img Start --> */
 .header-section {
     margin-top: 50px;
     display: flex;
@@ -353,16 +353,18 @@ i{
         align-items: center;
 
     }
-
+    .blog-icon  .fa-solid {
+        color: #000;
+    }
     .footer-icon {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
         justify-content: center;
         align-items: center;
-        color: white;
+        color: rgb(255, 0, 0);
     }
     .icon{
-        color: white;
+        color: rgb(255, 0, 0);
     }
     .footter-menu-box {
         display: grid;
