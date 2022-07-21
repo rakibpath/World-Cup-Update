@@ -42,6 +42,10 @@ img {
 
 
 }
+a.active {
+    background-color: rgb(255, 0, 0);
+    color: white;
+}
 
 .banner-btn {
     background-color: rgb(255, 1, 1);
