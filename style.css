@@ -34,6 +34,13 @@ body {
 
 img {
     width: 100%;
+    transition: width 3s;
+}
+
+.img:hover {
+    width: 120%;
+
+
 }
 
 .banner-btn {
