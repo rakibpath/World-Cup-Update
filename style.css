@@ -160,12 +160,16 @@ h1 {
     gap: 10px;
 
 }
-
+.blog-icon  .fa-solid {
+    color: #000;
+}
 
 .blog-anchor {
     margin-top: 20px;
 }
-
+.{
+    color: black;
+}
 .blog-btn {
     border: 1px solid black;
     padding: 5px 10px;
@@ -353,18 +357,16 @@ i{
         align-items: center;
 
     }
-    .blog-icon  .fa-solid {
-        color: #000;
-    }
+
     .footer-icon {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
         justify-content: center;
         align-items: center;
-        color: rgb(255, 0, 0);
+        color: white;
     }
     .icon{
-        color: rgb(255, 0, 0);
+        color: white;
     }
     .footter-menu-box {
         display: grid;
